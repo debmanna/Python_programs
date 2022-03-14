@@ -1,3 +1,3 @@
 # Python
 
-This is the repository for all Python codes
+This is the repository for all code snippets writen purely in python ... Mostly for learning purposes
