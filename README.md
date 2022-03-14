@@ -1,3 +1,3 @@
 # Python
 
-This is a test repository
+This is the repository for all Python codes
